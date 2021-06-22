@@ -1,0 +1,7 @@
+1,admin,admin,nombre,apellido,400.0
+2,dkghost,1234,jose,nava,1934.0
+3,a,a,jose,nava,300.0
+4,as,as,as,as,0.0
+5,df,df,df,df,0.0
+6,KillerMike,qwerty,Mike,Tyson,1000.0
+7,dasdadsa,sdsadsad,sadasdsa,dsadasdsad,0.0
